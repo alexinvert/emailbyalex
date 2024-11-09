@@ -308,9 +308,13 @@ body{
 	}
 
 
-	/*h2{
+	h2{
 		padding-top:20px;
-	}*/
+	}
+
+	h2.contactme{
+		padding-top: 0px;
+	}
 
 	.dividerline{
 		background-color: #707070;
