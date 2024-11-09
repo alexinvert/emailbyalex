@@ -178,9 +178,6 @@ body{
 
 	}
 
-		h2.contactme{
-		padding-top: 0px!important;
-	}
 	
 
 	h3{
@@ -311,9 +308,9 @@ body{
 	}
 
 
-	h2{
+	/*h2{
 		padding-top:20px;
-	}
+	}*/
 
 	.dividerline{
 		background-color: #707070;
